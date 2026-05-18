@@ -1,6 +1,6 @@
 # CODSOFT_TASK5
 
-# 💳 Credit Card Fraud Detection using Machine Learning
+#  Credit Card Fraud Detection using Machine Learning
 
 Project Overview
 Credit card fraud detection is a critical problem in the financial industry. This project aims to identify **fraudulent credit card transactions** using machine learning techniques. Since fraudulent transactions are extremely rare compared to genuine ones, the dataset is **highly imbalanced**, making this a challenging classification problem.
